@@ -28,7 +28,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h2>메  뉴 </h2>
+	<h2>메뉴</h2>
 	<table border="1" width="978">
 		<tr>
 			<td>Menu ID</td>
